@@ -1,0 +1,9 @@
+slprj/
+*.slxc
+*_ert_rtw/
+*_grt_rtw/
+*.asv
+*.slx.bak
+*~
+results/*
+!results/.gitkeep
